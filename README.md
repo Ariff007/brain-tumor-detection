@@ -16,3 +16,5 @@ The dataset used for this project consists of brain MRI images categorized into 
 1. **Glioma** - Malignant brain tumor originating from glial cells
 2. **Pituitary** - Tumor in the pituitary gland at the base of the brain
 3. **Normal** - Healthy brain scans with no tumors
+
+The dataset is publicly available and contains thousands of MRI images, making it suitable for training robust deep learning models.
